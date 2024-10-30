@@ -1,4 +1,4 @@
 <?php
-    $names = 'Вите надо выйти';
-    echo $names;
+    $name = 'Вите надо выйти';
+    echo $name;
 ?>
