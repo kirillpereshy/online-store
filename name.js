@@ -1,1 +1,2 @@
-console.log(6+6)
+var b = 6;
+console.log(b)
